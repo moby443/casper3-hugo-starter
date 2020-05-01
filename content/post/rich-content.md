@@ -7,35 +7,4 @@ tags = ["shortcodes", "privacy"]
 title = "Rich Content"
 
 +++
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
-
----
-
-## Instagram Simple Shortcode
-
-{{< instagram_simple BGvuInzyFAe hidecaption >}}
-
-<br>
-
----
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+Immobile e rigida dietro al sipario che sta per aprirsi, destata dal fragore del pubblico, abbandona il ricordo che l’ha rapita per un istante e volge lo sguardo tra le fessure delle tende. La sala gremita reclama con un applauso l’ingresso della musicista esordiente, la giovane promessa dal volto ancora sconosciuto ma il cui cognome compare da anni, decenni, sulle riviste specializzate. Lui è lì. Nuovamente. Come ogni giorno negli ultimi mesi. Senza tregua, sempre più intensamente fino a non lasciarla un solo istante. Anche tra la folla la sua presenza è evidente con quello sguardo vitreo, severo, quell’occhio che la osserva gelido. Occupa tutta una poltrona quell’occhio così grande da incutere timore, con ciglia lunghe e ben definite, con la palpebra ben aperta, fissa, pronta a cogliere ogni cosa dalla pupilla vigile ma quasi inespressiva come quella di una bambola. Aveva iniziato a percepire la sua presenza il giorno in cui il telefono squillò: la data del suo primo concerto. Lo aveva promesso a suo padre quando debole e stanco, consumato dalla malattia, le raccomandò di non tradire l’eredità che era stata affidata alla famiglia dal nonno e prima dalla madre del nonno e così da sempre. Il loro nome doveva perpetuarsi tra le note musicali per l’eternità e lei ora, era l’unica a portare quel nome. Sin da piccola sedeva sulle ginocchia del suo papà ogni giorno davanti a quel pianoforte che le pareva immenso ma pronto a rispondere ai comandi delle sue piccole manine guidate da quelle forti di suo padre. Era il loro linguaggio amoroso, il loro tempo insieme fino all’età in cui le sembrò naturale proseguire quel sogno iscrivendosi al Conservatorio. Certo, col tempo dovette governare la passione del primo amore e rinunciare alle scorribande notturne solite fra i suoi coetanei e anche quella strana irrequietezza che la pervadeva ogni volta che sentiva racconti di viaggi, affascinanti come null’altro per lei. Crescendo diveniva sempre più forte l’idea di lanciarsi verso altre strade per realizzare se stessa. Fino a quando il padre le parlò della sua malattia e dei sogni che aveva per lei e poi quella promessa da cui non poteva sottrarsi. Mise da parte tutte quelle strane fantasticherie da fanciulla e si lasciò guidare dal destino che i suoi trisavoli avevano stabilito per lei. Quella telefonata rendeva giustizia ai sacrifici che si era imposta fino in età adulta eppure in quel momento non sentì l’aria fluire più leggera nei suoi polmoni, né le palpitazioni di uno stato di eccitazione gioiosa, né sentì scendere una lacrima di commozione così come per anni aveva immaginato sarebbe accaduto. Piuttosto le apparve di udire nelle orecchie un fruscìo inquietante, qualcosa che iniziò ad aggirarsi nella sua casa senza mai farsi vedere divenendo, talvolta, un’ombra a lato della coda dell’occhio e palesandosi alla sua vista quando camminava in strada andando alle prove o a fare sosta al solito bar per un caffè. Una mattina si accorse che quella figura dai contorni sempre più evidenti, beh più preciso dire quell’occhio, di cui non poteva parlare con nessuno a rischio di esser presa per pazza e finire in manicomio piuttosto che sul palco del teatro, era diventato parte della sua vita quotidiana. Si era infilato gradualmente nel suo tempo e nel suo spazio fino ad occuparlo per intero ma proprio non riusciva a sentirlo un naturale compagno, piuttosto ne percepiva una forza che la inchiodava al muro tanto era sempre fisso sui suoi gesti e sui suoi pensieri. Anche ora lui è presente e lei deve riuscire ad aprire quel sipario e salutare il pubblico e poi sedersi davanti al pianoforte e iniziare a suonare perché così avrebbe voluto suo padre, perché per vivere quel momento ha dimenticato la sua giovinezza, perché il suo nome è scritto in grande sulla locandina del teatro e tutti i critici musicali stanno attendendo di poter parlare del nuovo talento che il suo Casato consegnerà al mondo dell’arte. Mentre batte sui tasti, una piccola fitta la risveglia dal silenzio del pubblico e dalla bolla del suono in cui è immersa. Deve proseguire e sollevando lo sguardo verso la sala, scorge ancora quell’occhio imponente occupare un posto fra gli astanti. Suona, continua a suonare, segue il repertorio fissato nella mente ma la fitta si è propagata trasformandosi in dolore forte, lancinante. Non riesce più ad essere concentrata ma persiste. Deve terminare. Guarda lo spartito, poi di nuovo il pubblico e… non lo trova. L’occhio non c’è più. La mente si perde nella sofferenza che avanza ma ha quasi terminato l’ultimo pezzo. Non ce la fa più a resistere, il dolore è sempre più forte e dilania tutto il suo corpo. Perché l’occhio non c’è più? Trattiene un po’ il respiro, magari così può provare un po’ di sollievo. Manca poco, basta, finito. Il pubblico si alza in piedi, acclama, chiede il bis, un successo. L’occhio no. E’ andato via. E anche lei scappa. Non ringrazia, non si inchina, si rifugia dietro le quinte. Si contorce negli spasmi, sente la pancia gonfiarsi, quasi scoppiare e urla, urla più che può per scacciare via tutto. Bagnata di sudore, terrorizzata senza capire ciò che sta accadendo, sente l’utero contrarsi. Pensa a suo padre, alla promessa fatta, la musica, il concerto e questo dolore mai provato. Sangue, cuore, cuore forte, paura, gonfio, mi apre in due, oddio, ecco, arriva, aiutoooo! BUM, BUM, BUM… Il cuore si calma e senza forze, confusa, lo vede…. E’ lì. Coperto anch’esso di sangue, sembra stanco. Non riesce ad aprirsi, non si muove, inane ha perso tutta la sua potenza. E’ uscito dal suo ventre. Ecco perché non c’era più. E lei ora l’ha espulso, morto. Ma non prova pietà. Piuttosto ora si sente leggera senza quel peso sul torace che la faceva sentire all’angolo senza possibilità di muoversi. Si guarda le mani, le gambe, i piedi, si accarezza il viso e si asciuga il sudore dalla fronte. La presenza non c’è più. Può camminare e decidere da sola la strada da percorrere, entrare in un altro bar e incontrare sguardi fatti di occhi tristi e chiari oppure belli e scuri. Occhi che la guardano negli occhi senza conoscere il suo nome né domandando quale sia il suo destino. Soltanto, da che parte vuole andare.
